@@ -1,0 +1,11 @@
+a=23
+b=a
+print(b)
+b+=a
+print(b)
+b-=a
+print(b)
+b*=a
+print(b)
+b<<=a
+print(b)
